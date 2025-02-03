@@ -1,2 +1,6 @@
 .DS_Store
 env/
+cache/
+dataset1.zip
+dataset1/
+*.json
